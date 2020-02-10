@@ -1,1 +1,1 @@
-# [CV] (https://skachkova-natalia.github.io/rsschool-cv/cv)
+# [CV](https://skachkova-natalia.github.io/rsschool-cv/cv)
