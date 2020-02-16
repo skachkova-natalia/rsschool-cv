@@ -1,0 +1,27 @@
+ .container {
+     width: 1024px;
+     margin-left: auto;
+     margin-right: auto;
+ }
+ 
+ .image {
+     max-width: 160px;
+     position: absolute;
+     padding: 1px;
+     left: 600px;
+ }
+ /*  .main_info {
+     position: absolute;
+     left: 300px;
+     top: 0px;
+ } */
+ 
+ .container {
+     width: 1024px;
+     font-family: 'Verdana', serif;
+ }
+ 
+ li,
+ p {
+     font-size: 19px;
+ }
